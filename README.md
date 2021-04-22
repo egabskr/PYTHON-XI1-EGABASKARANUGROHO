@@ -1,2 +1,2 @@
 # PYTHON-XI1-EGABASKARANUGROHO
-Belajar Python
+Proyek Belajar Python
